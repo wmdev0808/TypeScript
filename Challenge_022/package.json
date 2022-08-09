@@ -1,0 +1,26 @@
+{
+  "name": "challenge_022",
+  "version": "1.0.0",
+  "description": "Using class-transformer with TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Paul Li",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.3.1",
+    "typescript": "^4.7.4",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
+  },
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
