@@ -1,1 +1,1 @@
-# TypeScript challenge
+# TypeScript challenges
