@@ -26,3 +26,4 @@
 - [Practical Project 2](challenge-024/README.md)
 - [React with TS](challenge-025/README.md)
 - [Using TypeScript in Node.js + Express](challenge-026/README.md)
+- [Coding Challenges](challenge-027/README.md)
